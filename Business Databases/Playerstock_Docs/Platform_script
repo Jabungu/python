@@ -1,0 +1,45 @@
+# -*- coding: utf-8 -*-
+# MySQL Workbench Python script
+# <description>
+# Written in MySQL Workbench 8.0.20
+
+import grt
+#import mforms
+Platform for stock market of games
+
+Capabilities:
+Match Event: Submit a match, tourney
+Prediction: Submit a prediction
+Wager: putting money one prediction with algorithm that calculates payout for winning
+Ranking: Ranking system that ranks players, players can be clicked to view profile
+
+
+Use cases
+User1 creates profile- registers as  player
+User2 creates profile- registers as  player
+User3 creates profile- registers as  predictor
+User4 creates profile- registers as  auditor
+User1 creates an event by challenging user2 
+User2 accepts challenge 
+Auditor accepts job
+Predictions are cast  payments submitted and locked in 15min before match
+Event is live recorded by auditor: with polls from viewers for foul calls, and play
+Winner wins
+Match data is added and updated to court, player profiles and rankings
+Payments are processed
+Note it is a players duty to market themselves, gain followers, and sponsors, and build their platform
+Note auditors are reviewed by user
+Courts are registered and open-source audited and approved for dimensions
+
+
+Objective
+Create Numerous million dollar gamers and investors. Bring more data awareness to gamers in particular regions, support mindbody, Ai in communities. Madison Square Garden King of the court and gaming tourney $900 million in one weekend
+
+Market wellness products and services, travel, financial estate building
+
+
+Marketing
+First 1,000 USA users get $10 credit- 100 users  per sport or game (chess, basketball, tennis, fortnite, 2k)
+Stars are welcome
+
+
